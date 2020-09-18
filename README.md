@@ -27,3 +27,6 @@ install nltk :
 ```
 pip install nltk 
 ```
+## Usage
+It's a personalized voice assistent and can be inproved based on our requirements . We further simply combine the google search engine to search what ever we want.
+
